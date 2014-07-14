@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyText
+  source: MyString
+  description: MyText
+  location: MyString
+  company: MyString
+  open: false
+  posted: 2014-07-14 02:38:47
+  expires: 2014-07-14
+
+two:
+  title: MyText
+  source: MyString
+  description: MyText
+  location: MyString
+  company: MyString
+  open: false
+  posted: 2014-07-14 02:38:47
+  expires: 2014-07-14
